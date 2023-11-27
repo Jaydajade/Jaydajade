@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberGuessingGame",
+            "request": "launch",
+            "mainClass": "Lab3.NumberGuessingGame",
+            "projectName": "phornphatsorn-6567-java-labs_45e7f3b3"
+        },
+        {
+            "type": "java",
+            "name": "NumberGuessingGame",
+            "request": "launch",
+            "mainClass": "chitlada.phorn.lab2.Lab3.NumberGuessingGame",
+            "projectName": "phornphatsorn-6567-java-labs_45e7f3b3"
+        },
+        {
+            "type": "java",
             "name": "CamelCaseNaming",
             "request": "launch",
             "mainClass": "chitlada.phorn.lab2.CamelCaseNaming",
